@@ -14,9 +14,10 @@ I build lakehouse platforms on Databricks: ingestion frameworks, Medallion model
 
 | Project | What it is |
 |---|---|
+| [metadata-driven-etl-framework](https://github.com/suriyalakshmi-chandrasekar/metadata-driven-etl-framework) | YAML-defined pipelines on a Delta control table: AutoSkipper, dependency waves, incremental MERGE, SCD Type 2, data quality alerts, Asset Bundle deploy |
 | [lakebase-skills](https://github.com/suriyalakshmi-chandrasekar/lakebase-skills) | Agent skill (Claude Code plugin) that makes an AI agent an expert on Databricks Lakebase, with every fact cited to official docs |
 
-*More data engineering projects are on the way: metadata-driven ETL, API ingestion, Lakebase sync patterns and migration tooling.*
+*More on the way: CRM API ingestion, Lakebase sync patterns and Snowflake to Databricks migration tooling.*
 
 ## Tech stack
 
