@@ -17,9 +17,10 @@ I build lakehouse platforms on Databricks: ingestion frameworks, Medallion model
 | [metadata-driven-etl-framework](https://github.com/suriyalakshmi-chandrasekar/metadata-driven-etl-framework) | YAML-defined pipelines on a Delta control table: AutoSkipper, dependency waves, incremental MERGE, SCD Type 2, data quality alerts, Asset Bundle deploy |
 | [hubspot-to-delta-ingestion](https://github.com/suriyalakshmi-chandrasekar/hubspot-to-delta-ingestion) | Multi-instance CRM ingestion to Delta: rate-limit safe client, search past the 10k cap, soft deletes, associations, fake API for tests |
 | [lakebase-reverse-sync-lab](https://github.com/suriyalakshmi-chandrasekar/lakebase-reverse-sync-lab) | App edits in Lakebase Postgres flowing back to Delta Gold: change table, unified view, CDF consumers, safe retirement, tested end to end |
+| [snowflake-to-databricks-migration-kit](https://github.com/suriyalakshmi-chandrasekar/snowflake-to-databricks-migration-kit) | SQL translator that fixes results-changing differences, a difference register, multiset parity checks, atomic publish, cost baseline |
 | [lakebase-skills](https://github.com/suriyalakshmi-chandrasekar/lakebase-skills) | Agent skill (Claude Code plugin) that makes an AI agent an expert on Databricks Lakebase, with every fact cited to official docs |
 
-*More on the way: Snowflake to Databricks migration tooling and Auto Loader patterns.*
+*More on the way: Auto Loader ingestion patterns.*
 
 ## Tech stack
 
